@@ -29,8 +29,3 @@ Spicy Hut is the best vegetarian restaurant in Chennai, offering a wide range of
 - Font Awesome for providing icons.
 - Background image sourced from [Unsplash](https://unsplash.com/).
 
-## Author
-[Your Name/Username]
-
-## License
-This project is licensed under the [MIT License](LICENSE).
